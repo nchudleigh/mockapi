@@ -1,0 +1,13 @@
+[{
+        "id": "apple",
+        "destination": "https://www.apple.com/"
+    },
+    {
+        "id": "cloudflare",
+        "destination": "https://cloudflare.com/"
+    },
+    {
+        "id": "health",
+        "destination": "ok"
+    }
+]
